@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8913b350-33dc-428b-a5a6-7147a81189f5" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1SprlIqtKYjpqumvFRzmolJLEG5" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ITSOL_GIT/ui-campaign" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.MatrixEx">
+    <configuration name="ExArr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExArr" />
+      <module name="Lesson2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExFunction" />
+      <module name="Lesson2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FunAndMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunAndMatrix" />
+      <module name="Lesson2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ImportAndExportArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImportAndExportArray" />
+      <module name="Lesson2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MatrixEx" />
+      <module name="Lesson2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MatrixEx" />
+        <item itemvalue="Application.ExFunction" />
+        <item itemvalue="Application.ExArr" />
+        <item itemvalue="Application.FunAndMatrix" />
+        <item itemvalue="Application.ImportAndExportArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8913b350-33dc-428b-a5a6-7147a81189f5" name="Default Changelist" comment="" />
+      <created>1572271527738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572271527738</updated>
+      <workItem from="1572271529816" duration="4705000" />
+      <workItem from="1572313031035" duration="5572000" />
+      <workItem from="1572344880319" duration="918000" />
+      <workItem from="1572354170806" duration="659000" />
+      <workItem from="1572399579323" duration="801000" />
+      <workItem from="1572410878097" duration="1925000" />
+      <workItem from="1572614171340" duration="6280000" />
+      <workItem from="1572793412059" duration="19000" />
+      <workItem from="1573566252855" duration="4635000" />
+      <workItem from="1573609620077" duration="8000" />
+      <workItem from="1573613477552" duration="599000" />
+      <workItem from="1573615704839" duration="4000" />
+      <workItem from="1573726976344" duration="2754000" />
+      <workItem from="1573995264988" duration="4382000" />
+      <workItem from="1574041322423" duration="4546000" />
+      <workItem from="1574047824642" duration="4548000" />
+      <workItem from="1574061655248" duration="1281000" />
+      <workItem from="1574122566425" duration="313000" />
+      <workItem from="1574127716110" duration="1207000" />
+      <workItem from="1574329512280" duration="4066000" />
+      <workItem from="1574345835272" duration="4602000" />
+      <workItem from="1574387181514" duration="1537000" />
+      <workItem from="1574427881353" duration="6292000" />
+      <workItem from="1574509983575" duration="644000" />
+      <workItem from="1574579737241" duration="6523000" />
+      <workItem from="1574777407135" duration="5397000" />
+      <workItem from="1574818939460" duration="1931000" />
+      <workItem from="1574821166056" duration="1920000" />
+      <workItem from="1574840132249" duration="3102000" />
+      <workItem from="1574865720043" duration="599000" />
+      <workItem from="1574904996326" duration="599000" />
+      <workItem from="1574916398068" duration="616000" />
+      <workItem from="1575730501974" duration="599000" />
+      <workItem from="1575773894167" duration="612000" />
+      <workItem from="1575805758130" duration="1954000" />
+      <workItem from="1575821363286" duration="155000" />
+      <workItem from="1575859959977" duration="661000" />
+      <workItem from="1575963194597" duration="4878000" />
+      <workItem from="1575988025608" duration="600000" />
+      <workItem from="1576032779342" duration="3605000" />
+      <workItem from="1576115181205" duration="1217000" />
+      <workItem from="1576147669843" duration="599000" />
+      <workItem from="1576161596317" duration="690000" />
+      <workItem from="1576201353935" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1829" height="367" key="GridCell.Tab.0.bottom" timestamp="1576062334234">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state width="1829" height="367" key="GridCell.Tab.0.bottom/45.27.1875.1053@45.27.1875.1053" timestamp="1576062334234" />
+    <state width="1829" height="367" key="GridCell.Tab.0.center" timestamp="1576062334233">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state width="1829" height="367" key="GridCell.Tab.0.center/45.27.1875.1053@45.27.1875.1053" timestamp="1576062334233" />
+    <state width="1829" height="367" key="GridCell.Tab.0.left" timestamp="1576062334233">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state width="1829" height="367" key="GridCell.Tab.0.left/45.27.1875.1053@45.27.1875.1053" timestamp="1576062334233" />
+    <state width="1829" height="367" key="GridCell.Tab.0.right" timestamp="1576062334233">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state width="1829" height="367" key="GridCell.Tab.0.right/45.27.1875.1053@45.27.1875.1053" timestamp="1576062334233" />
+    <state width="1829" height="367" key="GridCell.Tab.1.bottom" timestamp="1576062334235">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state width="1829" height="367" key="GridCell.Tab.1.bottom/45.27.1875.1053@45.27.1875.1053" timestamp="1576062334235" />
+    <state width="1829" height="367" key="GridCell.Tab.1.center" timestamp="1576062334234">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state width="1829" height="367" key="GridCell.Tab.1.center/45.27.1875.1053@45.27.1875.1053" timestamp="1576062334234" />
+    <state width="1829" height="367" key="GridCell.Tab.1.left" timestamp="1576062334234">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state width="1829" height="367" key="GridCell.Tab.1.left/45.27.1875.1053@45.27.1875.1053" timestamp="1576062334234" />
+    <state width="1829" height="367" key="GridCell.Tab.1.right" timestamp="1576062334235">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state width="1829" height="367" key="GridCell.Tab.1.right/45.27.1875.1053@45.27.1875.1053" timestamp="1576062334235" />
+    <state x="291" y="279" width="1372" height="547" key="new project wizard" timestamp="1575874217071">
+      <screen x="45" y="27" width="1875" height="1053" />
+    </state>
+    <state x="291" y="279" width="1372" height="547" key="new project wizard/45.27.1875.1053@45.27.1875.1053" timestamp="1575874217071" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MatrixEx.java</url>
+          <line>140</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
